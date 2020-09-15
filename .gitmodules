@@ -2,3 +2,8 @@
 	path = nathaly0404/Submodule
 	url = git@github.com:nathaly0404/Submodule.git
 	branch = master
+
+[submodule "nathaly0404/Localizacion_prueba"]
+	path = nathaly0404/Localizacion_prueba
+	url = git@github.com:nathaly0404/Localizacion_prueba.git
+	branch = master
