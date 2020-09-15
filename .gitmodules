@@ -1,0 +1,4 @@
+[submodule "nathaly0404/Submodule"]
+	path = nathaly0404/Submodule
+	url = git@github.com:nathaly0404/Submodule.git
+	branch = master
