@@ -7,3 +7,8 @@
 	path = nathaly0404/Localizacion_prueba
 	url = git@github.com:nathaly0404/Localizacion_prueba.git
 	branch = master
+
+[submodule "ingadhoc/account-payment"]
+	path = ingadhoc/account-payment
+	url = git@github.com:ingadhoc/account-payment.git
+	branch = 8.0
